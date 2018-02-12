@@ -1,0 +1,14 @@
+{
+  "transferences": [
+    {"id": 1, "name": 'Ikea'},
+    {"id": 2, "name": 'amzon'},
+    {"id": 3, "name": 'banko'},
+    {"id": 4, "name": 'ali'},
+    {"id": 5, "name": 'express'},
+    {"id": 6, "name": 'node'},
+    {"id": 7, "name": 'js'},
+    {"id": 8, "name": 'agular'},
+    {"id": 9, "name": 'designer'},
+    {"id": 10, "name": 'game'}
+  ]
+}
